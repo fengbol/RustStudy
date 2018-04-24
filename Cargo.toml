@@ -1,0 +1,6 @@
+[package]
+name = "RustStudy"
+version = "0.1.0"
+authors = ["HF <clubfeng@gmail.com>"]
+
+[dependencies]
