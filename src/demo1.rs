@@ -3,7 +3,7 @@ extern crate rand;
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
-
+//Guess
 fn demo1(){
     println!("猜猜看！数字是多少？");
     println!("请输入你猜的数字：");
